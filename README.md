@@ -459,17 +459,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **[Next.js Team](https://nextjs.org)** - For the amazing React framework
-- **[Material-UI](https://mui.com)** - For the comprehensive component library
-- **[TanStack](https://tanstack.com)** - For powerful data management tools
-- **[Vercel](https://vercel.com)** - For hosting and deployment platform
-- **[New Relic](https://newrelic.com)** - For application monitoring
-- **[Firebase](https://firebase.google.com)** - For backend services
-
-## 🔗 Related Resources
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://react.dev)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Material-UI Documentation](https://mui.com/getting-started/)
-- [TanStack Query Documentation](https://tanstack.com/query/latest)
+- [Next.js Team](https://nextjs.org)
+- [Material-UI](https://mui.com)
+- [TanStack](https://tanstack.com)
+- [Vercel](https://vercel.com)
+- [New Relic](https://newrelic.com)
+- [Firebase](https://firebase.google.com)
