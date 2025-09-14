@@ -23,12 +23,12 @@ exports[`Test locales: en Snapshot 1`] = `
   },
   "fiveHundred": {
     "action": "WhatsApp",
-    "description": "Rey's system is experiencing problems. Please try again in a few moments or contact us via",
+    "description": "System is experiencing problems. Please try again in a few moments or contact us via",
     "title": "Sorry, System Error",
   },
   "fourOFour": {
     "action": "Home",
-    "description": "This page does not exist on Rey. Come on, double-check your destination link or return to",
+    "description": "This page does not exist. Come on, double-check your destination link or return to",
     "title": "Well, Page Not Found",
   },
 }

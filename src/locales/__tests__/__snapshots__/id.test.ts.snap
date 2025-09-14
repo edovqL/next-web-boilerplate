@@ -23,12 +23,12 @@ exports[`Test locales: id Snapshot 1`] = `
   },
   "fiveHundred": {
     "action": "WhatsApp",
-    "description": "Sistem Rey sedang mengalami masalah. Mohon coba kembli dalam beberapa saat atau hubungi kami via",
+    "description": "Sistem sedang mengalami masalah. Mohon coba kembli dalam beberapa saat atau hubungi kami via",
     "title": "Maaf, Sistem Sedang Error",
   },
   "fourOFour": {
     "action": "Beranda",
-    "description": "Halaman ini tidak ada di Rey. Yuk, periksa ulang link tujuan kamu atau kembali ke",
+    "description": "Halaman ini tidak ada. Yuk, periksa ulang link tujuan kamu atau kembali ke",
     "title": "Yah, Halaman Tidak Ditemukan",
   },
 }
